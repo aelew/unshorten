@@ -7,7 +7,7 @@
 Install Cargo crate
 
 ```bash
-  cargo add unshorten
+  cargo install unshorten
 ```
 
 Unshorten an URL
